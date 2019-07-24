@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# A memo demo 51备忘录
+# author: e11iot
+
+
 import re
 
 
