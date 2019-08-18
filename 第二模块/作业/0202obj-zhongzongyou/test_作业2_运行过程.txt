@@ -1,0 +1,152 @@
+请输入备忘信息 : 
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+2 1.1 45 55
+3 3.3 44 55
+4 6.6 66 66
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 1
+add
+请输入代办(如: 1.1-小8-学习python): 5.5-66-77
+['5.5', '66', '77']
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+2 1.1 45 55
+3 3.3 44 55
+4 6.6 66 66
+5 5.5 66 77
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 3
+modify
+请输入需要修改的备忘录(如: 1, 2, 3): 4
+请输入代办(如: 1.1-小8-学习python): 4.4-44-44
+请输入备忘信息 : 
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+2 1.1 45 55
+3 3.3 44 55
+4 4.4 44 44
+5 5.5 66 77
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 3
+modify
+请输入需要修改的备忘录(如: 1, 2, 3): 3
+请输入代办(如: 1.1-小8-学习python): 3.3-33-33
+请输入备忘信息 : 
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+2 1.1 45 55
+3 3.3 33 33
+4 4.4 44 44
+5 5.5 66 77
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 4
+query
+请输入需要查询的备忘录(如: 1, 2, 3): 2
+2 1.1 45 55
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 2
+delete
+请输入想要删除的备忘录(如: 1, 2, 3): 2
+删除成功!
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+3 3.3 33 33
+4 4.4 44 44
+5 5.5 66 77
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 6
+PS C:\Users\Elliot\OneDrive\桌面\同步文件夹\Python学习+笔记\Python学习打卡> & C:/Users/Elliot/Anaconda3/python.exe c:/Users/Elliot/OneDrive/桌面/同步文件夹/Python学习+笔记/Python学习打卡/第二模块/作业/作业2_尝试2.py   
+请输入备忘信息 : 
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择: 5
+print_all
+1 1.1 w 5
+3 3.3 33 33
+4 4.4 44 44
+5 5.5 66 77
+请输入备忘信息 :
+1 add
+2 delete
+3 modify
+4 query
+5 print_all
+6 退出
+请输入你的选择:
